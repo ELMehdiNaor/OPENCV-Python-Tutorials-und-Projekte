@@ -4,7 +4,7 @@ OPENCV Python Tutorials für Anfänger
 ## 1-Basics 
 |  Topic        |  Image        |  Description       |      
 |  ------------ | ------------  | ------------       |
-| How to Read an Image-Video-Webcam | Content Cell  | Content Cell|
+| How to Read an Image-Video-Webcam | Content Cell  | Learn how to read images videos and webcam |
  
 ## 2-Intermediate 
 
