@@ -1,4 +1,4 @@
-# OPENCV-Python-Tutorials-und-Projekte
+# OPENCV-Python-Tutorials-und-Projects
 OPENCV Python Tutorials für Anfänger
 
 ## 1-Basics 
