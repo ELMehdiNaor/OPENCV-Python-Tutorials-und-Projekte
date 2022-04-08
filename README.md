@@ -8,7 +8,7 @@ OPENCV Python Tutorials für Anfänger
 |[Getting Started with Videos](https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/GUI_Features_in_OPENCV/Playing_Vid_from_File.py)|<img src="https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/Resources/testVideo.mp4" width="200"  height="200">|Learn to play videos, capture videos from a camera, and write videos|
 |[Drawing Functions in OpenCV](https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/GUI_Features_in_OPENCV/Drawing_Functions_OpenCV.py)|<img src="https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/GUI_Features_in_OPENCV/actualImage.jpg" width="200" height="200">|Learn to draw lines, rectangles, ellipses, circles, etc with OpenCV|
 |[Mouse as a Paint-Brush](https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/GUI_Features_in_OPENCV/Mouse_Paint_Brush.py)|<img src="https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/GUI_Features_in_OPENCV/testImage.png" width="200" height="200">|Learn to draw stuff with your mouse|
-|[Trackbar as the color palette]()||Create trackbar to control certain parameters|
+|[Trackbar as the color palette]()|<img src="https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/Resources/Color_Palette.png" width="200"  height="200">|Create trackbar to control certain parameters|
 
  
 ## 2-Core Operations
