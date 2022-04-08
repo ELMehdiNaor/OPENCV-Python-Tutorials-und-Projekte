@@ -1,5 +1,5 @@
 # OPENCV-Python-Tutorials-und-Projects
-OPENCV Python Tutorials for Beginners 
+### OPENCV Python Tutorials for Beginners 
 
 ## 1-GUI Features in OpenCV
 ### Here we will learn how to display and save images and videos, control mouse events and create a trackbar.
