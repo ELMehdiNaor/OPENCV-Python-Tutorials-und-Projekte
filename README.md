@@ -13,5 +13,8 @@
 
  
 ## 2-Core Operations
+### In this Section we will learn basic operations on images like pixel editing, geometric transformations, code optimization, some mathematical tools etc...
+|   Topic       |  Image       | Desciption       |
+| ------------  | ------------ | ------------     |
 
 ## 3-Image Processing in OpenCV 
