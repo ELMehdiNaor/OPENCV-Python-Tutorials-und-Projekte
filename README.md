@@ -1,7 +1,8 @@
 # OPENCV-Python-Tutorials-und-Projects
-OPENCV Python Tutorials für Anfänger
+OPENCV Python Tutorials for Beginners 
 
 ## 1-GUI Features in OpenCV
+### Here we will learn how to display and save images and videos, control mouse events and create a trackbar.
 |  Topic        |  Image        |  Description      | 
 |  ------------ | ------------  | ------------      |
 |[Getting Started with Images](https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/Basics/Read_Display_Write_Image.py)|<img src="https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/Resources/lena.png" width="200" height="200">|Learn how to read, display and save an Image|
