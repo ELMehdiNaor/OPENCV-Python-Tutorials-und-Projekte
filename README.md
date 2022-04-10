@@ -17,7 +17,7 @@
 
 |  Topic        |  Image        |  Description      | 
 |  ------------ | ------------  | ------------      |
-|[Basic Operations on Images]() |                   |Learn to read and edit pixel values, working with image ROI and other basic operations|
+|[Basic Operations on Images]() |<img src="https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/Core%20Operations/Basic_Operations_on_Images/Messi6.jpg" width="200" height="200">|Learn to read and edit pixel values, working with image ROI and other basic operations|
 
 
 ## 3-Image Processing in OpenCV 
