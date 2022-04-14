@@ -25,4 +25,4 @@
 ### In this section we will learn about the image processing (also called image manipulation) functions inside OpenC
 |   Topic       |   Image       |   Description       |
 |   ----------- |  ------------ |  --------------     |
-|[Changing Colorspaces]()|()|Learn to change iamges colorspaces, plus learn to track a colored object in a video|
+|[Changing Colorspaces]()||Learn to change images colorspaces, plus learn to track a colored object in a video|
