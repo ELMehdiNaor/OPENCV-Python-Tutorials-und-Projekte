@@ -26,4 +26,4 @@
 |   Topic       |   Image       |   Description       |
 |   ----------- |  ------------ |  --------------     |
 |[Changing Colorspaces](https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/Image_Processing_in_OPENCV/1_Changing_Colorspaces/1_Changing_Colorspaces/Object_Detection_Changing_Colorspaces.py)|<img src ="https://github.com/ELMehdiNaor/OPENCV-Python-Tutorials-und-Projekte/blob/main/Resources/Object_Tracking_Me2.png" width="200" height="200">|Learn to change images colorspaces, plus learn to track a colored object in a video|
-|[Simple Thresholding]()||Learn to convert images to binary images using Simple Imae Thresholding|
+|[Simple Thresholding]()||Learn to convert images to binary images using Simple Image Thresholding|
